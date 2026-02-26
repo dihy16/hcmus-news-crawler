@@ -66,8 +66,8 @@ jobs:
           git config --local user.name "GitHub Action Bot"
           git config --local user.email "action@github.com"
 
-          git add index.md NEWS.md
-          git commit -m "Auto-update news: $timestamp"
+          git add NEWS.md
+          git commit -m "Update NEWS.md: $timestamp"
           git push
 
   build:
