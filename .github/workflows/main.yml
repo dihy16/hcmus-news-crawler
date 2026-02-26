@@ -1,3 +1,7 @@
+concurrency:
+  group: crawler
+  cancel-in-progress: true
+  
 name: Crawl news
 
 #Run automatically every hour
