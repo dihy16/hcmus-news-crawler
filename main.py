@@ -91,7 +91,7 @@ def crawl_fetel():
 
     soup = bs(response.text, "html.parser")
 
-    result = "## FeTel\n\n"
+    result = "## fetel\n\n"
 
     section_names = [
         "Thông báo tuyển dụng - Thực tập",
