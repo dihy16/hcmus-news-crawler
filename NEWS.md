@@ -1,5 +1,5 @@
 # All news
-_Last update: **2026-02-27 00:09:26.658599+07:00**_
+_Last update: **2026-02-27 00:13:41.140634+07:00**_
 ## APCS
 ### Kế hoạch học tập
  - 19/09/2025: [[CTĐA] Kế hoạch mở học phần năm học 2025-2026 (dự kiến)](https://www.ctda.hcmus.edu.vn/vi/2025/09/ctda-ke-hoach-mo-hoc-phan-nam-hoc-2025-2026-du-kien/)
@@ -74,6 +74,22 @@ _Last update: **2026-02-27 00:09:26.658599+07:00**_
 - 04/02/2026: [Thông báo Kế hoạch dạy và học các môn chính trị trong HK2/2025-2026](https://hcmus.edu.vn/thong-bao-ke-hoach-day-va-hoc-cac-mon-chinh-tri-trong-hk2-2025-2026/)
 
 ## FeTel
+
+### Thông báo tuyển dụng - Thực tập
+ - 29-01: [Chương trình Ươm mầm Kỹ sư Embedded tương lai “FPT Telecom Embedded Bootcamp”](https://fetel.hcmus.edu.vn/chuong-trinh-uom-mam-ky-su-embedded-tuong-lai-fpt-telecom-embedded-bootcamp/)
+ - 27-01: [Thông báo tuyển Thực tập sinh tháng 02/2026 Công ty TMA Solutions](https://fetel.hcmus.edu.vn/thong-bao-tuyen-thuc-tap-sinh-thang-02-2026-cong-ty-tma-solutions/)
+ - 24-01: [Thông báo Tuyển dụng kỹ sư Nghiên cứu thuật toán xử lý tín hiệu, Phát triển phần mềm nhúng, Trí tuệ nhân tạo, Machine learning để làm các sản phẩm trong ngành truyền thông di động bao gồm 4G, 5G, 5GA, 6G Tổng Công Ty Công Nghiệp Công Nghệ Cao Viettel (VHT)](https://fetel.hcmus.edu.vn/thong-bao-tuyen-dung-ky-su-nghien-cuu-thuat-toan-xu-ly-tin-hieu-phat-trien-phan-mem-nhung-tri-tue-nhan-tao-machine-learning-de-lam-cac-san-pham-trong-nganh-truyen-thong-di-dong-bao-gom-4g-5g-5ga/)
+ - 22-01: [Thông tin tuyển dụng fresher Physical Design Engineer Công ty TNHH SVC Technologies](https://fetel.hcmus.edu.vn/thong-tin-tuyen-dung-fresher-physical-design-engineer-cong-ty-tnhh-svc-technologies/)
+ - 09-01: [Thông tin Chương trình thực tập Marvell Vietnam Internship Program 2026](https://fetel.hcmus.edu.vn/thong-tin-chuong-trinh-thuc-tap-marvell-vietnam-internship-program-2026/)
+ - 06-01: [Thông báo tuyển thực tập sinh chương trình phát triển nguồn lực cho dự án SoC – “SoC Talent Intership” công ty FPT Telecom](https://fetel.hcmus.edu.vn/thong-bao-tuyen-thuc-tap-sinh-chuong-trinh-phat-trien-nguon-luc-cho-du-an-soc-soc-talent-intership-cong-ty-fpt-telecom/)
+
+### Thông báo học bổng
+ - 09-01: [Thông tin Chương trình học bổng Marvell Vietnam Excellence Scholarship 2026](https://fetel.hcmus.edu.vn/thong-tin-chuong-trinh-hoc-bong-marvell-vietnam-excellence-scholarship-2026/)
+ - 06-01: [2026 Global Samsung Semiconductor Special Program (GSSSP) at Seoul National University](https://fetel.hcmus.edu.vn/2026-global-samsung-semiconductor-special-program-gsssp-at-seoul-national-university/)
+ - 26-12: [Chương trình hè nghiên cứu POSTECH 2026 từ Đại học Khoa học và Công nghệ Pohang Hàn Quốc (POSTECH)](https://fetel.hcmus.edu.vn/chuong-trinh-he-nghien-cuu-postech-2026-tu-dai-hoc-khoa-hoc-va-cong-nghe-pohang-han-quoc-postech/)
+ - 18-12: [Chương trình Lãnh đạo trẻ toàn cầu (Global Young Leaders) 2026/27 của Pohang University of Science & Technology (POSTECH) và POSCO Group](https://fetel.hcmus.edu.vn/chuong-trinh-lanh-dao-tre-toan-cau-global-young-leaders-2026-27-cua-pohang-university-of-science-technology-postech-va-posco-group/)
+ - 08-09: [Chương trình trao đổi sinh viên học kỳ mùa xuân 2026 – ĐH Quốc gia Thanh Hoa (NTHU), Đài Loan](https://fetel.hcmus.edu.vn/chuong-trinh-trao-doi-sinh-vien-hk-mua-xuan-2026/)
+ - 14-05: [2025 Fall INTENSE Master’s Programs – National Chung Hsing University (NCHU)](https://fetel.hcmus.edu.vn/2025-fall-intense-masters-programs-national-chung-hsing-university-nchu/)
 
 ## Các thông báo về Khảo thí
  - [Thông báo phúc khảo HK1/25-26 CT đề án các khoa](https://ktdbcl.hcmus.edu.vn/index.php/thong-bao/930-thong-bao-phuc-kh-o-hk1-25-26-ct-d-an-cac-khoa)
