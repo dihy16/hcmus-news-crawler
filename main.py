@@ -109,6 +109,29 @@ def crawl_hcmus():
 
     return result
 
+def crawl_fetel():
+    response = requests.get("https://fetel.hcmus.edu.vn", headers=headers, timeout=10)
+    response.raise_for_status()
+
+    soup = bs(response.text, "html.parser")
+
+    result = "## FeTel\n"
+
+    for item in soup.select("div.col.post-item"):
+        anchor = item.select_one("a.plain")
+        if not anchor:
+            continue
+
+        link = anchor.get('href')
+
+        title_tag = item.select_one("h5.post-title")
+        title = title_tag.get_text(strip=True)
+
+        result += f' - [{title}]({link})\n'
+
+    result += '\n'
+    return result
+
 if __name__ == '__main__':
     with open('NEWS.md', 'w', encoding='utf-8') as f:
         f.write('# All news\n')
@@ -116,4 +139,5 @@ if __name__ == '__main__':
         f.write(crawl_ctda())
         f.write(crawl_fit())
         f.write(crawl_hcmus())
+        f.write(crawl_fetel())
         f.write(crawl_old_hcmus())
