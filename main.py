@@ -52,34 +52,10 @@ def crawl_old_hcmus():
     page = requests.get("https://old.hcmus.edu.vn/sinh-vien", headers=headers)
     soup = bs(page.content, features="lxml")
 
-    # news_titles = [el.text for el in soup.find_all(class_='mod-articles-category-title')]
-    # raw_links = [el.attrs['href'] for el in soup.find_all(class_='mod-articles-category-title')]
-    # news_links = [''.join(url) for url in raw_links]
-
-    # raw_dates = [el.text for el in soup.find_all(class_='mod-articles-category-date')]
-    # news_dates = [''.join(re.findall('([\d-])', date)) for date in raw_dates]
-
     ctkt = [el for el in soup.find_all(class_='feed-link')]
     ctkt_titles = [''.join(re.sub(r'(\t|\n)', '', news.text)) for news in ctkt]
     ctkt_links = [''.join(re.findall('http.*" ', str(news))) for news in ctkt]
 
-    # thong_bao = ['Các thông báo về Đào Tạo',
-    #             'Các thông báo về Công tác sinh viên',
-    #             'Thông báo khác',
-    #             'Các thông báo về Khảo thí']
-
-    # result = '## HCMUS\n'
-    # current_section = current_news_count = 0
-    # for i in range(len(news_dates)):
-    #     if current_news_count == 0:
-    #         result += f'### {thong_bao[current_section]}\n'
-    #         current_section += 1
-    #     current_news_count += 1
-    #     if current_news_count == 15:
-    #         current_news_count = 0
-    #     result += f' - {news_dates[i]}: [{news_titles[i]}](https://old.hcmus.edu.vn{news_links[i]})\n'
-
-    # result += f'### {thong_bao[current_section]}\n'
     result = '## Các thông báo về Khảo thí\n'
     rule_position = [5, 10, 13]
     for i in range(len(ctkt_titles)):
@@ -115,21 +91,39 @@ def crawl_fetel():
 
     soup = bs(response.text, "html.parser")
 
-    result = "## FeTel\n"
+    result = "## FeTel\n\n"
 
-    for item in soup.select("div.col.post-item"):
-        anchor = item.select_one("a.plain")
-        if not anchor:
-            continue
+    section_names = [
+        "Thông báo tuyển dụng - Thực tập",
+        "Thông báo học bổng"
+    ]
 
-        link = anchor.get('href')
+    rows = soup.select("div.row.large-columns-3.medium-columns-1.small-columns-2.row-xsmall")
 
-        title_tag = item.select_one("h5.post-title")
-        title = title_tag.get_text(strip=True)
+    for idx, row in enumerate(rows[:2]):  # ensure only 2 sections
+        result += f"### {section_names[idx]}\n"
 
-        result += f' - [{title}]({link})\n'
+        for item in row.select("div.col.post-item"):
+            anchor = item.select_one("a.plain")
+            title_tag = item.select_one("h5.post-title")
+            day_tag = item.select_one("span.post-date-day")
+            month_tag = item.select_one("span.post-date-month")
 
-    result += '\n'
+            if not (anchor and title_tag and day_tag and month_tag):
+                continue
+
+            link = anchor.get("href")
+            title = title_tag.get_text(strip=True)
+
+            pub_day = day_tag.get_text(strip=True).zfill(2)
+            pub_month = month_tag.get_text(strip=True).replace("Th", "").zfill(2)
+
+            pub_date = f"{pub_day}-{pub_month}"
+
+            result += f" - {pub_date}: [{title}]({link})\n"
+
+        result += "\n"
+
     return result
 
 if __name__ == '__main__':
