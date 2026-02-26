@@ -1,4 +1,4 @@
-name: News Crawler & Deploy
+name: Scheduled crawl
 
 on:
   schedule:
