@@ -1,5 +1,5 @@
 # All news
-_Last update: **2026-02-26 18:21:24.881885+07:00**_
+_Last update: **2026-02-26 18:43:10.173546+07:00**_
 ## APCS
 ### Kế hoạch học tập
  - 19/09/2025: [[CTĐA] Kế hoạch mở học phần năm học 2025-2026 (dự kiến)](https://www.ctda.hcmus.edu.vn/vi/2025/09/ctda-ke-hoach-mo-hoc-phan-nam-hoc-2025-2026-du-kien/)
@@ -72,6 +72,40 @@ _Last update: **2026-02-26 18:21:24.881885+07:00**_
 - 05/02/2026: [Thông báo điều chỉnh thời gian đăng ký học phần học kỳ 2 năm học 2025-2026 cho sinh viên Đại học hệ chính quy, chương trình đại trà](https://hcmus.edu.vn/thong-bao-dieu-chinh-thoi-gian-dang-ky-hoc-phan-hoc-ky-2-nam-hoc-2025-2026-cho-sinh-vien-dai-hoc-he-chinh-quy-chuong-trinh-dai-tra/)
 - 05/02/2026: [Thông báo nộp hồ sơ xét tốt nghiệp đợt 1 và đợt 2 năm 2026 đối với sinh viên hệ chính quy chương trình liên thông đại học](https://hcmus.edu.vn/thong-bao-nop-ho-so-xet-tot-nghiep-dot-1-va-dot-2-nam-2026-doi-voi-sinh-vien-he-chinh-quy-chuong-trinh-lien-thong-dai-hoc/)
 - 04/02/2026: [Thông báo Kế hoạch dạy và học các môn chính trị trong HK2/2025-2026](https://hcmus.edu.vn/thong-bao-ke-hoach-day-va-hoc-cac-mon-chinh-tri-trong-hk2-2025-2026/)
+
+## FeTel
+ - [Thông báo kết quả xét chuyên ngành tháng 01/2026](https://fetel.hcmus.edu.vn/thong-bao-ket-qua-xet-chuyen-nganh-thang-01-2026/)
+ - [Chương trình Ươm mầm Kỹ sư Embedded tương lai “FPT Telecom Embedded Bootcamp”](https://fetel.hcmus.edu.vn/chuong-trinh-uom-mam-ky-su-embedded-tuong-lai-fpt-telecom-embedded-bootcamp/)
+ - [Thông báo tuyển Thực tập sinh tháng 02/2026 Công ty TMA Solutions](https://fetel.hcmus.edu.vn/thong-bao-tuyen-thuc-tap-sinh-thang-02-2026-cong-ty-tma-solutions/)
+ - [Thông báo Tuyển dụng kỹ sư Nghiên cứu thuật toán xử lý tín hiệu, Phát triển phần mềm nhúng, Trí tuệ nhân tạo, Machine learning để làm các sản phẩm trong ngành truyền thông di động bao gồm 4G, 5G, 5GA, 6G Tổng Công Ty Công Nghiệp Công Nghệ Cao Viettel (VHT)](https://fetel.hcmus.edu.vn/thong-bao-tuyen-dung-ky-su-nghien-cuu-thuat-toan-xu-ly-tin-hieu-phat-trien-phan-mem-nhung-tri-tue-nhan-tao-machine-learning-de-lam-cac-san-pham-trong-nganh-truyen-thong-di-dong-bao-gom-4g-5g-5ga/)
+ - [Thông tin tuyển dụng fresher Physical Design Engineer Công ty TNHH SVC Technologies](https://fetel.hcmus.edu.vn/thong-tin-tuyen-dung-fresher-physical-design-engineer-cong-ty-tnhh-svc-technologies/)
+ - [Thông báo về việc thu học phí học kỳ 2 năm học 2025-2026 đối với sinh viên trình độ đại học hệ chính quy các chương trình đề án (chất lượng cao và tăng cường tiếng anh)](https://fetel.hcmus.edu.vn/thong-bao-ve-viec-thu-hoc-phi-hoc-ky-2-nam-hoc-2025-2026-doi-voi-sinh-vien-trinh-do-dai-hoc-he-chinh-quy-cac-chuong-trinh-de-an-chat-luong-cao-va-tang-cuong-tieng-anh/)
+ - [Thông báo Quyết định về việc ban hành Quy định gia hạn thời gian nộp học phí đối với sinh viên, học viên sau đại học](https://fetel.hcmus.edu.vn/thong-bao-quyet-dinh-ve-viec-ban-hanh-quy-dinh-gia-han-thoi-gian-nop-hoc-phi-doi-voi-sinh-vien-hoc-vien-sau-dai-hoc/)
+ - [Thông tin Chương trình học bổng Marvell Vietnam Excellence Scholarship 2026](https://fetel.hcmus.edu.vn/thong-tin-chuong-trinh-hoc-bong-marvell-vietnam-excellence-scholarship-2026/)
+ - [Điểm chuẩn chính thức vào đại học hệ chính quy năm 2025 đối với tất cả các phương thức xét tuyển](https://fetel.hcmus.edu.vn/diem-chuan-chinh-thuc-vao-dai-hoc-he-chinh-quy-nam-2025-doi-voi-tat-ca-cac-phuong-thuc-xet-tuyen/)
+ - [Điểm chuẩn trúng tuyển phương thức 3 (Dựa trên kết quả Kỳ thi Tốt nghiệp THPT 2024)](https://fetel.hcmus.edu.vn/diem-chuan-trung-tuyen-phuong-thuc-3-dua-tren-ket-qua-ky-thi-tot-nghiep-thpt-2024/)
+ - [Điểm chuẩn trúng tuyển phương thức 3 (Dựa trên kết quả Kỳ thi Tốt nghiệp THPT 2023)](https://fetel.hcmus.edu.vn/diem-chuan-trung-tuyen-phuong-thuc-3-dua-tren-ket-qua-ky-thi-tot-nghiep-thpt-2023/)
+ - [Điểm chuẩn trúng tuyển phương thức 3 (Dựa trên kết quả Kỳ thi Tốt nghiệp THPT 2022)](https://fetel.hcmus.edu.vn/diem-chuan-trung-tuyen-phuong-thuc-3-dua-tren-ket-qua-ky-thi-tot-nghiep-thpt-2022/)
+ - [Tổng quan về Chương trình Chất lượng cao](https://fetel.hcmus.edu.vn/tong-quan-ve-chuong-trinh-chat-luong-cao/)
+ - [Thông báo kết quả xét chuyên ngành tháng 01/2026](https://fetel.hcmus.edu.vn/thong-bao-ket-qua-xet-chuyen-nganh-thang-01-2026/)
+ - [Thông báo về việc thu học phí học kỳ 2 năm học 2025-2026 đối với sinh viên trình độ đại học hệ chính quy các chương trình đề án (chất lượng cao và tăng cường tiếng anh)](https://fetel.hcmus.edu.vn/thong-bao-ve-viec-thu-hoc-phi-hoc-ky-2-nam-hoc-2025-2026-doi-voi-sinh-vien-trinh-do-dai-hoc-he-chinh-quy-cac-chuong-trinh-de-an-chat-luong-cao-va-tang-cuong-tieng-anh/)
+ - [Thông báo Quyết định về việc ban hành Quy định gia hạn thời gian nộp học phí đối với sinh viên, học viên sau đại học](https://fetel.hcmus.edu.vn/thong-bao-quyet-dinh-ve-viec-ban-hanh-quy-dinh-gia-han-thoi-gian-nop-hoc-phi-doi-voi-sinh-vien-hoc-vien-sau-dai-hoc/)
+ - [Thời khóa biểu HK2 năm học 2025-2026 chương trình đề án](https://fetel.hcmus.edu.vn/thoi-khoa-bieu-hk2-nam-hoc-2025-2026-chuong-trinh-de-an/)
+ - [Chương trình Ươm mầm Kỹ sư Embedded tương lai “FPT Telecom Embedded Bootcamp”](https://fetel.hcmus.edu.vn/chuong-trinh-uom-mam-ky-su-embedded-tuong-lai-fpt-telecom-embedded-bootcamp/)
+ - [Thông báo tuyển Thực tập sinh tháng 02/2026 Công ty TMA Solutions](https://fetel.hcmus.edu.vn/thong-bao-tuyen-thuc-tap-sinh-thang-02-2026-cong-ty-tma-solutions/)
+ - [Thông báo Tuyển dụng kỹ sư Nghiên cứu thuật toán xử lý tín hiệu, Phát triển phần mềm nhúng, Trí tuệ nhân tạo, Machine learning để làm các sản phẩm trong ngành truyền thông di động bao gồm 4G, 5G, 5GA, 6G Tổng Công Ty Công Nghiệp Công Nghệ Cao Viettel (VHT)](https://fetel.hcmus.edu.vn/thong-bao-tuyen-dung-ky-su-nghien-cuu-thuat-toan-xu-ly-tin-hieu-phat-trien-phan-mem-nhung-tri-tue-nhan-tao-machine-learning-de-lam-cac-san-pham-trong-nganh-truyen-thong-di-dong-bao-gom-4g-5g-5ga/)
+ - [Thông tin tuyển dụng fresher Physical Design Engineer Công ty TNHH SVC Technologies](https://fetel.hcmus.edu.vn/thong-tin-tuyen-dung-fresher-physical-design-engineer-cong-ty-tnhh-svc-technologies/)
+ - [Thông tin Chương trình học bổng Marvell Vietnam Excellence Scholarship 2026](https://fetel.hcmus.edu.vn/thong-tin-chuong-trinh-hoc-bong-marvell-vietnam-excellence-scholarship-2026/)
+ - [2026 Global Samsung Semiconductor Special Program (GSSSP) at Seoul National University](https://fetel.hcmus.edu.vn/2026-global-samsung-semiconductor-special-program-gsssp-at-seoul-national-university/)
+ - [Chương trình hè nghiên cứu POSTECH 2026 từ Đại học Khoa học và Công nghệ Pohang Hàn Quốc (POSTECH)](https://fetel.hcmus.edu.vn/chuong-trinh-he-nghien-cuu-postech-2026-tu-dai-hoc-khoa-hoc-va-cong-nghe-pohang-han-quoc-postech/)
+ - [Chương trình Lãnh đạo trẻ toàn cầu (Global Young Leaders) 2026/27 của Pohang University of Science & Technology (POSTECH) và POSCO Group](https://fetel.hcmus.edu.vn/chuong-trinh-lanh-dao-tre-toan-cau-global-young-leaders-2026-27-cua-pohang-university-of-science-technology-postech-va-posco-group/)
+ - [Chương trình Ươm mầm Kỹ sư Embedded tương lai “FPT Telecom Embedded Bootcamp”](https://fetel.hcmus.edu.vn/chuong-trinh-uom-mam-ky-su-embedded-tuong-lai-fpt-telecom-embedded-bootcamp/)
+ - [Buổi giới thiệu chương trình và phỏng vấn ứng viên cao học Global Samsung Semiconductor Special Program (GSSSP) tại Đại học Quốc Gia Seoul (SNU)](https://fetel.hcmus.edu.vn/buoi-gioi-thieu-chuong-trinh-va-phong-van-ung-vien-cao-hoc-global-samsung-semiconductor-special-program-gsssp-tai-dai-hoc-quoc-gia-seoul-snu/)
+ - [Cuộc thi CodeRace Challenge 2025 do Bosch Global Software Technologies Vietnam tổ chức](https://fetel.hcmus.edu.vn/cuoc-thi-coderace-challenge-2025-do-bosch-global-software-technologies-vietnam-to-chuc/)
+ - [Thông tin về chương trình INTRODUCTION DAY –  SYNOPSYS ITP2025 (Summer Program)](https://fetel.hcmus.edu.vn/thong-tin-ve-chuong-trinh-introduction-day-synopsys-itp2025-summer-program/)
+ - [GIỚI THIỆU KHOA ĐIỆN TỬ – VIỄN THÔNG](https://fetel.hcmus.edu.vn/gioi-thieu-khoa-dien-tu-vien-thong/)
+ - [CHIA SẺ CỦA ANH HUỲNH QUỐC ANH – CỰU SINH VIÊN K11 VỀ NGÀNH HỌC](https://fetel.hcmus.edu.vn/chia-se-cua-anh-huynh-quoc-anh-cuu-sinh-vien-k11-ve-nganh-hoc/)
+ - [CHƯƠNG TRÌNH CHẤT LƯỢNG CAO NGÀNH KỸ THUẬT ĐIỆN TỬ VIỄN THÔNG – KHOA ĐIỆN TỬ VIỄN THÔNG – HCMUS](https://fetel.hcmus.edu.vn/chuong-trinh-chat-luong-cao-nganh-ky-thuat-dien-tu-vien-thong-khoa-dien-tu-vien-thong-hcmus/)
 
 ## Các thông báo về Khảo thí
  - [Thông báo phúc khảo HK1/25-26 CT đề án các khoa](https://ktdbcl.hcmus.edu.vn/index.php/thong-bao/930-thong-bao-phuc-kh-o-hk1-25-26-ct-d-an-cac-khoa)
