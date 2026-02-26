@@ -86,7 +86,7 @@ def crawl_hcmus():
     return result
 
 def crawl_fetel():
-    response = requests.get("https://fetel.hcmus.edu.vn", headers=headers, timeout=10)
+    response = requests.get("https://fetel.hcmus.edu.vn/tin-tuc-thong-bao/", headers=headers, timeout=10)
     response.raise_for_status()
 
     soup = bs(response.text, "html.parser")
