@@ -1,5 +1,5 @@
 # All news
-_Last update: **2026-03-14 21:20:33.920793+07:00**_
+_Last update: **2026-03-14 22:19:32.882441+07:00**_
 ## APCS
 ### Kế hoạch học tập
  - 19/09/2025: [[CTĐA] Kế hoạch mở học phần năm học 2025-2026 (dự kiến)](https://www.ctda.hcmus.edu.vn/vi/2025/09/ctda-ke-hoach-mo-hoc-phan-nam-hoc-2025-2026-du-kien/)
@@ -76,12 +76,12 @@ _Last update: **2026-03-14 21:20:33.920793+07:00**_
 ## fetel
 
 ### Thông báo tuyển dụng - Thực tập
+ - 14-03: [Thông tin về Tuyển dụng và tiếp nhận sinh viên thực tập Công ty TNHH Kỹ thuật Công nghệ điện tự động Biển Đông (ESTEC)](https://fetel.hcmus.edu.vn/thong-tin-ve-tuyen-dung-va-tiep-nhan-sinh-vien-thuc-tap-cong-ty-tnhh-ky-thuat-cong-nghe-dien-tu-dong-bien-dong-estec/)
  - 29-01: [Chương trình Ươm mầm Kỹ sư Embedded tương lai “FPT Telecom Embedded Bootcamp”](https://fetel.hcmus.edu.vn/chuong-trinh-uom-mam-ky-su-embedded-tuong-lai-fpt-telecom-embedded-bootcamp/)
  - 27-01: [Thông báo tuyển Thực tập sinh tháng 02/2026 Công ty TMA Solutions](https://fetel.hcmus.edu.vn/thong-bao-tuyen-thuc-tap-sinh-thang-02-2026-cong-ty-tma-solutions/)
  - 24-01: [Thông báo Tuyển dụng kỹ sư Nghiên cứu thuật toán xử lý tín hiệu, Phát triển phần mềm nhúng, Trí tuệ nhân tạo, Machine learning để làm các sản phẩm trong ngành truyền thông di động bao gồm 4G, 5G, 5GA, 6G Tổng Công Ty Công Nghiệp Công Nghệ Cao Viettel (VHT)](https://fetel.hcmus.edu.vn/thong-bao-tuyen-dung-ky-su-nghien-cuu-thuat-toan-xu-ly-tin-hieu-phat-trien-phan-mem-nhung-tri-tue-nhan-tao-machine-learning-de-lam-cac-san-pham-trong-nganh-truyen-thong-di-dong-bao-gom-4g-5g-5ga/)
  - 22-01: [Thông tin tuyển dụng fresher Physical Design Engineer Công ty TNHH SVC Technologies](https://fetel.hcmus.edu.vn/thong-tin-tuyen-dung-fresher-physical-design-engineer-cong-ty-tnhh-svc-technologies/)
  - 09-01: [Thông tin Chương trình thực tập Marvell Vietnam Internship Program 2026](https://fetel.hcmus.edu.vn/thong-tin-chuong-trinh-thuc-tap-marvell-vietnam-internship-program-2026/)
- - 06-01: [Thông báo tuyển thực tập sinh chương trình phát triển nguồn lực cho dự án SoC – “SoC Talent Intership” công ty FPT Telecom](https://fetel.hcmus.edu.vn/thong-bao-tuyen-thuc-tap-sinh-chuong-trinh-phat-trien-nguon-luc-cho-du-an-soc-soc-talent-intership-cong-ty-fpt-telecom/)
 
 ### Thông báo học bổng
  - 09-01: [Thông tin Chương trình học bổng Marvell Vietnam Excellence Scholarship 2026](https://fetel.hcmus.edu.vn/thong-tin-chuong-trinh-hoc-bong-marvell-vietnam-excellence-scholarship-2026/)
