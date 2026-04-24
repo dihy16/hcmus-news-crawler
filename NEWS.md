@@ -1,5 +1,5 @@
 # All news
-_Last update: **2026-04-24 18:56:06.889853+07:00**_
+_Last update: **2026-04-24 20:06:54.480300+07:00**_
 ## APCS
 ### Kế hoạch học tập
  - 19/09/2025: [[CTĐA] Kế hoạch mở học phần năm học 2025-2026 (dự kiến)](https://www.ctda.hcmus.edu.vn/vi/2025/09/ctda-ke-hoach-mo-hoc-phan-nam-hoc-2025-2026-du-kien/)
@@ -84,12 +84,12 @@ _Last update: **2026-04-24 18:56:06.889853+07:00**_
  - 24-01: [Thông báo Tuyển dụng kỹ sư Nghiên cứu thuật toán xử lý tín hiệu, Phát triển phần mềm nhúng, Trí tuệ nhân tạo, Machine learning để làm các sản phẩm trong ngành truyền thông di động bao gồm 4G, 5G, 5GA, 6G Tổng Công Ty Công Nghiệp Công Nghệ Cao Viettel (VHT)](https://fetel.hcmus.edu.vn/thong-bao-tuyen-dung-ky-su-nghien-cuu-thuat-toan-xu-ly-tin-hieu-phat-trien-phan-mem-nhung-tri-tue-nhan-tao-machine-learning-de-lam-cac-san-pham-trong-nganh-truyen-thong-di-dong-bao-gom-4g-5g-5ga/)
 
 ### Thông báo học bổng
+ - 24-04: [Thông tin buổi giới thiệu Introduction Day – Synopsys IC Design Scholarship 2026](https://fetel.hcmus.edu.vn/thong-tin-buoi-gioi-thieu-introduction-day-synopsys-ic-design-scholarship-2026/)
  - 09-01: [Thông tin Chương trình học bổng Marvell Vietnam Excellence Scholarship 2026](https://fetel.hcmus.edu.vn/thong-tin-chuong-trinh-hoc-bong-marvell-vietnam-excellence-scholarship-2026/)
  - 06-01: [2026 Global Samsung Semiconductor Special Program (GSSSP) at Seoul National University](https://fetel.hcmus.edu.vn/2026-global-samsung-semiconductor-special-program-gsssp-at-seoul-national-university/)
  - 26-12: [Chương trình hè nghiên cứu POSTECH 2026 từ Đại học Khoa học và Công nghệ Pohang Hàn Quốc (POSTECH)](https://fetel.hcmus.edu.vn/chuong-trinh-he-nghien-cuu-postech-2026-tu-dai-hoc-khoa-hoc-va-cong-nghe-pohang-han-quoc-postech/)
  - 18-12: [Chương trình Lãnh đạo trẻ toàn cầu (Global Young Leaders) 2026/27 của Pohang University of Science & Technology (POSTECH) và POSCO Group](https://fetel.hcmus.edu.vn/chuong-trinh-lanh-dao-tre-toan-cau-global-young-leaders-2026-27-cua-pohang-university-of-science-technology-postech-va-posco-group/)
  - 08-09: [Chương trình trao đổi sinh viên học kỳ mùa xuân 2026 – ĐH Quốc gia Thanh Hoa (NTHU), Đài Loan](https://fetel.hcmus.edu.vn/chuong-trinh-trao-doi-sinh-vien-hk-mua-xuan-2026/)
- - 14-05: [2025 Fall INTENSE Master’s Programs – National Chung Hsing University (NCHU)](https://fetel.hcmus.edu.vn/2025-fall-intense-masters-programs-national-chung-hsing-university-nchu/)
 
 ## Các thông báo về Khảo thí
  - [Thông báo SV đánh giá môn học - GV HK2/2025-2026 (Chương trình đề án)](https://ktdbcl.hcmus.edu.vn/index.php/thong-bao/936-thong-bao-sv-danh-gia-mon-h-c-gv-hk2-2025-2026-chuong-trinh-d-an)
