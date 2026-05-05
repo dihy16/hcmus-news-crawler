@@ -1,5 +1,5 @@
 # All news
-_Last update: **2026-05-05 20:14:10.628973+07:00**_
+_Last update: **2026-05-05 22:36:38.931205+07:00**_
 ## APCS
 ### Kế hoạch học tập
  - 19/09/2025: [[CTĐA] Kế hoạch mở học phần năm học 2025-2026 (dự kiến)](https://www.ctda.hcmus.edu.vn/vi/2025/09/ctda-ke-hoach-mo-hoc-phan-nam-hoc-2025-2026-du-kien/)
@@ -62,6 +62,7 @@ _Last update: **2026-05-05 20:14:10.628973+07:00**_
  - 23-4-2026: [Thông báo đóng học phí học phần 2 các lớp cao học khoá 35/2025](https://www.fit.hcmus.edu.vn/vn/Default.aspx?tabid=292&newsid=17359)
 
 ## Thông tin dành cho sinh viên
+- 05/05/2026: [Thông báo về việc hoàn thành nghĩa vụ học phí trước khi xét học bổng khuyến khích HK1/2025-2026](https://hcmus.edu.vn/thong-bao-ve-viec-hoan-thanh-nghia-vu-hoc-phi-truoc-khi-xet-hoc-bong-khuyen-khich-hoc-ky-1-nam-hoc-2025-2026/)
 - 28/04/2026: [THƯ MỜI ĐĂNG KÝ VÀ VIẾT BÀI THAM GIA HỘI NGHỊ XÚC TÁC VÀ HẤP PHỤ TOÀN QUỐC LẦN THỨ XIII](https://hcmus.edu.vn/thu-moi-dang-ky-va-viet-bai-tham-gia-hoi-nghi-xuc-tac-va-hap-phu-toan-quoc-lan-thu-xiii/)
 - 24/04/2026: [TRIỂN KHAI CHƯƠNG TRÌNH ƯU ĐÃI “ĐI BUÝT XANH – VỀ TẾT MIỄN PHÍ”](https://hcmus.edu.vn/trien-khai-chuong-trinh-uu-dai-di-buyt-xanh-ve-tet-mien-phi/)
 - 23/04/2026: [THÔNG BÁO TUYỂN CHỌN NHIỆM VỤ KHCN CẤP ĐHQG-HCM KẾ HOẠCH 2026-2027](https://hcmus.edu.vn/thong-bao-tuyen-chon-nhiem-vu-khcn-cap-dhqg-hcm-ke-hoach-2026-2027/)
@@ -71,17 +72,16 @@ _Last update: **2026-05-05 20:14:10.628973+07:00**_
 - 22/04/2026: [[THÔNG BÁO] Chương trình AUN Summer Camp 202​6 – Universiti Brunei Darussalam (UBD)](https://hcmus.edu.vn/thong-bao-chuong-trinh-aun-summer-camp-2026-universiti-brunei-darussalam-ubd/)
 - 22/04/2026: [Chương trình đào tạo trình độ đại học khóa 2025](https://hcmus.edu.vn/chuong-trinh-dao-tao-trinh-do-dai-hoc-khoa-2025/)
 - 21/04/2026: [THÔNG BÁO Triển khai Chương trình Phát triển Nhân tài số 2026](https://hcmus.edu.vn/thong-bao-trien-khai-chuong-trinh-phat-trien-nhan-tai-so-2026/)
-- 21/04/2026: [Thông báo danh sách sinh viên đã tham gia Sinh hoạt công dân – sinh viên cuối khóa, năm học 2025-2026 (Chuyên đề A), ngày 19/4/2026](https://hcmus.edu.vn/thong-bao-danh-sach-sinh-vien-da-tham-gia-sinh-hoat-cong-dan-sinh-vien-cuoi-khoa-nam-hoc-2025-2026-chuyen-de-a-ngay-19-4-2026/)
 
 ## fetel
 
 ### Thông báo tuyển dụng - Thực tập
+ - 05-05: [Tuyển chọn sinh viên tham gia chương trình “IC Design Training Program” – LAT Semiconductor](https://fetel.hcmus.edu.vn/tuyen-chon-sinh-vien-tham-gia-chuong-trinh-ic-design-training-program-lat-semiconductor/)
  - 21-04: [Thông tin tuyển dụng thực tập sinh tại công ty Ampere Computing](https://fetel.hcmus.edu.vn/thong-tin-tuyen-dung-thuc-tap-sinh-tai-cong-ty-ampere-computing/)
  - 20-04: [Thông tin tuyển Thực tập sinh Công ty TMA Solutions tháng 04/2026](https://fetel.hcmus.edu.vn/thong-tin-tuyen-thuc-tap-sinh-cong-ty-tma-solutions-thang-04-2026/)
  - 14-03: [Thông tin về Tuyển dụng và tiếp nhận sinh viên thực tập Công ty TNHH Kỹ thuật Công nghệ điện tự động Biển Đông (ESTEC)](https://fetel.hcmus.edu.vn/thong-tin-ve-tuyen-dung-va-tiep-nhan-sinh-vien-thuc-tap-cong-ty-tnhh-ky-thuat-cong-nghe-dien-tu-dong-bien-dong-estec/)
  - 29-01: [Chương trình Ươm mầm Kỹ sư Embedded tương lai “FPT Telecom Embedded Bootcamp”](https://fetel.hcmus.edu.vn/chuong-trinh-uom-mam-ky-su-embedded-tuong-lai-fpt-telecom-embedded-bootcamp/)
  - 27-01: [Thông báo tuyển Thực tập sinh tháng 02/2026 Công ty TMA Solutions](https://fetel.hcmus.edu.vn/thong-bao-tuyen-thuc-tap-sinh-thang-02-2026-cong-ty-tma-solutions/)
- - 24-01: [Thông báo Tuyển dụng kỹ sư Nghiên cứu thuật toán xử lý tín hiệu, Phát triển phần mềm nhúng, Trí tuệ nhân tạo, Machine learning để làm các sản phẩm trong ngành truyền thông di động bao gồm 4G, 5G, 5GA, 6G Tổng Công Ty Công Nghiệp Công Nghệ Cao Viettel (VHT)](https://fetel.hcmus.edu.vn/thong-bao-tuyen-dung-ky-su-nghien-cuu-thuat-toan-xu-ly-tin-hieu-phat-trien-phan-mem-nhung-tri-tue-nhan-tao-machine-learning-de-lam-cac-san-pham-trong-nganh-truyen-thong-di-dong-bao-gom-4g-5g-5ga/)
 
 ### Thông báo học bổng
  - 24-04: [Thông tin buổi giới thiệu Introduction Day – Synopsys IC Design Scholarship 2026](https://fetel.hcmus.edu.vn/thong-tin-buoi-gioi-thieu-introduction-day-synopsys-ic-design-scholarship-2026/)
