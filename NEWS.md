@@ -1,5 +1,5 @@
 # All news
-_Last update: **2026-05-08 22:13:35.814811+07:00**_
+_Last update: **2026-05-09 00:02:37.294580+07:00**_
 ## APCS
 ### Kế hoạch học tập
  - 19/09/2025: [[CTĐA] Kế hoạch mở học phần năm học 2025-2026 (dự kiến)](https://www.ctda.hcmus.edu.vn/vi/2025/09/ctda-ke-hoach-mo-hoc-phan-nam-hoc-2025-2026-du-kien/)
@@ -76,12 +76,12 @@ _Last update: **2026-05-08 22:13:35.814811+07:00**_
 ## fetel
 
 ### Thông báo tuyển dụng - Thực tập
+ - 08-05: [BOSCH INTERNSHIP PROGRAM 2026 ĐỢT 3](https://fetel.hcmus.edu.vn/bosch-internship-program-2026-dot-3/)
  - 05-05: [Tuyển chọn sinh viên tham gia chương trình “IC Design Training Program” – LAT Semiconductor](https://fetel.hcmus.edu.vn/tuyen-chon-sinh-vien-tham-gia-chuong-trinh-ic-design-training-program-lat-semiconductor/)
  - 21-04: [Thông tin tuyển dụng thực tập sinh tại công ty Ampere Computing](https://fetel.hcmus.edu.vn/thong-tin-tuyen-dung-thuc-tap-sinh-tai-cong-ty-ampere-computing/)
  - 20-04: [Thông tin tuyển Thực tập sinh Công ty TMA Solutions tháng 04/2026](https://fetel.hcmus.edu.vn/thong-tin-tuyen-thuc-tap-sinh-cong-ty-tma-solutions-thang-04-2026/)
  - 14-03: [Thông tin về Tuyển dụng và tiếp nhận sinh viên thực tập Công ty TNHH Kỹ thuật Công nghệ điện tự động Biển Đông (ESTEC)](https://fetel.hcmus.edu.vn/thong-tin-ve-tuyen-dung-va-tiep-nhan-sinh-vien-thuc-tap-cong-ty-tnhh-ky-thuat-cong-nghe-dien-tu-dong-bien-dong-estec/)
  - 29-01: [Chương trình Ươm mầm Kỹ sư Embedded tương lai “FPT Telecom Embedded Bootcamp”](https://fetel.hcmus.edu.vn/chuong-trinh-uom-mam-ky-su-embedded-tuong-lai-fpt-telecom-embedded-bootcamp/)
- - 27-01: [Thông báo tuyển Thực tập sinh tháng 02/2026 Công ty TMA Solutions](https://fetel.hcmus.edu.vn/thong-bao-tuyen-thuc-tap-sinh-thang-02-2026-cong-ty-tma-solutions/)
 
 ### Thông báo học bổng
  - 24-04: [Thông tin buổi giới thiệu Introduction Day – Synopsys IC Design Scholarship 2026](https://fetel.hcmus.edu.vn/thong-tin-buoi-gioi-thieu-introduction-day-synopsys-ic-design-scholarship-2026/)
