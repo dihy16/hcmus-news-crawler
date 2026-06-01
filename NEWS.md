@@ -1,5 +1,5 @@
 # All news
-_Last update: **2026-06-01 10:41:27.710745+07:00**_
+_Last update: **2026-06-01 16:12:03.992705+07:00**_
 ## APCS
 ### Kế hoạch học tập
  - 19/09/2025: [[CTĐA] Kế hoạch mở học phần năm học 2025-2026 (dự kiến)](https://www.ctda.hcmus.edu.vn/vi/2025/09/ctda-ke-hoach-mo-hoc-phan-nam-hoc-2025-2026-du-kien/)
@@ -51,7 +51,7 @@ _Last update: **2026-06-01 10:41:27.710745+07:00**_
 
 ## FIT
  - 1-6-2026: [Mời tham dự buổi Seminar trước bảo vệ luận án tiến sĩ của NCS Trần Thống](https://www.fit.hcmus.edu.vn/vn/Default.aspx?tabid=292&newsid=17422)
- - 31-5-2026: [Danh sách sinh viên tham dự hội thảo Giao tiếp hiệu quả khi làm việc trong môi trường IT](https://www.fit.hcmus.edu.vn/vn/Default.aspx?tabid=292&newsid=17421)
+ - 31-5-2026: [Danh sách sinh viên tham dự hội thảo Hội thảo Interview Mindset: Làm chủ buổi phỏng vấn công nghệ.](https://www.fit.hcmus.edu.vn/vn/Default.aspx?tabid=292&newsid=17421)
  - 29-5-2026: [Đăng ký tham dự hội thảo: Interview Mindset – Làm chủ buổi phỏng vấn công nghệ](https://www.fit.hcmus.edu.vn/vn/Default.aspx?tabid=292&newsid=17420)
  - 29-5-2026: [Danh sách sinh viên tham gia sinh hoạt công dân cuối khóa ngày 23/5](https://www.fit.hcmus.edu.vn/vn/Default.aspx?tabid=292&newsid=17419)
  - 28-5-2026: [Đăng ký tham quan công ty KMS Technology ngày 10/6](https://www.fit.hcmus.edu.vn/vn/Default.aspx?tabid=292&newsid=17418)
