@@ -1,5 +1,5 @@
 # All news
-_Last update: **2026-06-02 07:07:24.573101+07:00**_
+_Last update: **2026-06-02 12:23:08.359909+07:00**_
 ## APCS
 ### Kế hoạch học tập
  - 19/09/2025: [[CTĐA] Kế hoạch mở học phần năm học 2025-2026 (dự kiến)](https://www.ctda.hcmus.edu.vn/vi/2025/09/ctda-ke-hoach-mo-hoc-phan-nam-hoc-2025-2026-du-kien/)
@@ -62,6 +62,7 @@ _Last update: **2026-06-02 07:07:24.573101+07:00**_
  - 18-5-2026: [Khảo sát mức độ quan tâm ngành/ chuyên ngành Khóa 2024 - Chương trình chuẩn ĐHCQ](https://www.fit.hcmus.edu.vn/vn/Default.aspx?tabid=292&newsid=17400)
 
 ## Thông tin dành cho sinh viên
+- 02/06/2026: [Thông báo Chương trình học bổng Vallet 2026 (Dành cho Sinh viên Đại học)](https://hcmus.edu.vn/thong-bao-chuong-trinh-hoc-bong-vallet-2026-danh-cho-sinh-vien-dai-hoc/)
 - 01/06/2026: [Thông tin về Chương trình Học bổng Synopsys IC Design Scholarship 2026](https://hcmus.edu.vn/thong-tin-ve-chuong-trinh-hoc-bong-synopsys-ic-design-scholarship-2026/)
 - 30/05/2026: [Thông báo nộp hồ sơ xét hoàn tất chương trình đào tạo trình độ đại học hệ chính quy – Đợt tháng 6 năm 2026](https://hcmus.edu.vn/thong-bao-nop-ho-so-xet-hoan-tat-chuong-trinh-dao-tao-trinh-do-dai-hoc-he-chinh-quy-dot-thang-6-nam-2026/)
 - 21/05/2026: [Kế hoạch mở học phần và hướng dẫn đăng ký học phần chương trình chuẩn/đại trà trong HK3/2025-2026 tại cơ sở 2](https://hcmus.edu.vn/ke-hoach-mo-hoc-phan-va-huong-dan-dang-ky-hoc-phan-chuong-trinh-chuan-dai-tra-trong-hk3-2025-2026-tai-co-so-2/)
@@ -71,17 +72,16 @@ _Last update: **2026-06-02 07:07:24.573101+07:00**_
 - 13/05/2026: [Thông báo kết quả dự kiến học bổng khuyến khích HK1/2025-2026 (Chương trình Chuẩn)](https://hcmus.edu.vn/thong-bao-ket-qua-du-kien-hoc-bong-khuyen-khich-hk1-2025-2026-chuong-trinh-chuan/)
 - 12/05/2026: [[THÔNG BÁO] Chương trình AUN Summer Camp 202​6 – Chulalongkorn University](https://hcmus.edu.vn/thong-bao-chuong-trinh-aun-summer-camp-2026-chulalongkorn-university/)
 - 08/05/2026: [Thông báo Tổ chức Chương trình tập huấn Ban cán sự lớp – Chuyên đề 2 “Thực hành mô phỏng tình huống sơ cứu tâm lý cho bạn học và kỹ thuật tự chăm sóc sức khỏe tinh thần cho bản thân”](https://hcmus.edu.vn/thong-bao-to-chuc-chuong-trinh-tap-huan-ban-can-su-lop-chuyen-de-2-thuc-hanh-mo-phong-tinh-huong-so-cuu-tam-ly-cho-ban-hoc-va-ky-thuat-tu-cham-soc-suc-khoe-tinh-than-cho-ba%cc%89n-tha/)
-- 07/05/2026: [[THÔNG BÁO] Tuyển sinh đi học tại Ca-dắc-xtan & Ma-rốc năm 2026](https://hcmus.edu.vn/thong-bao-tuyen-sinh-di-hoc-tai-ca-dac-xtan-ma-roc-nam-2026/)
 
 ## fetel
 
 ### Thông báo tuyển dụng - Thực tập
+ - 02-06: [Chương trình “A Day @ Renesas for Future Female Engineers” dành cho các bạn sinh viên thuộc khối ngành kỹ thuật của Renesas Design Việt Nam](https://fetel.hcmus.edu.vn/chuong-trinh-a-day-renesas-for-future-female-engineers-danh-cho-cac-ban-sinh-vien-thuoc-khoi-nganh-ky-thuat-cua-renesas-viet-nam/)
  - 19-05: [Chương trình Sinh viên công nghệ tập sự 2026 của FPT Telecom “Master Deep Tech, Lead The Next”](https://fetel.hcmus.edu.vn/chuong-trinh-sinh-vien-cong-nghe-tap-su-2026-cua-fpt-telecom-master-deep-tech-lead-the-next/)
  - 08-05: [BOSCH INTERNSHIP PROGRAM 2026 ĐỢT 3](https://fetel.hcmus.edu.vn/bosch-internship-program-2026-dot-3/)
  - 05-05: [Tuyển chọn sinh viên tham gia chương trình “IC Design Training Program” – LAT Semiconductor](https://fetel.hcmus.edu.vn/tuyen-chon-sinh-vien-tham-gia-chuong-trinh-ic-design-training-program-lat-semiconductor/)
  - 21-04: [Thông tin tuyển dụng thực tập sinh tại công ty Ampere Computing](https://fetel.hcmus.edu.vn/thong-tin-tuyen-dung-thuc-tap-sinh-tai-cong-ty-ampere-computing/)
  - 20-04: [Thông tin tuyển Thực tập sinh Công ty TMA Solutions tháng 04/2026](https://fetel.hcmus.edu.vn/thong-tin-tuyen-thuc-tap-sinh-cong-ty-tma-solutions-thang-04-2026/)
- - 14-03: [Thông tin về Tuyển dụng và tiếp nhận sinh viên thực tập Công ty TNHH Kỹ thuật Công nghệ điện tự động Biển Đông (ESTEC)](https://fetel.hcmus.edu.vn/thong-tin-ve-tuyen-dung-va-tiep-nhan-sinh-vien-thuc-tap-cong-ty-tnhh-ky-thuat-cong-nghe-dien-tu-dong-bien-dong-estec/)
 
 ### Thông báo học bổng
  - 24-04: [Thông tin buổi giới thiệu Introduction Day – Synopsys IC Design Scholarship 2026](https://fetel.hcmus.edu.vn/thong-tin-buoi-gioi-thieu-introduction-day-synopsys-ic-design-scholarship-2026/)
@@ -100,7 +100,7 @@ _Last update: **2026-06-02 07:07:24.573101+07:00**_
 
 ***
 
- - [Lịch thi cuối kỳ HK2/25-26 Chính quy tại LT và NVC (Cập nhật 29/05)](https://ktdbcl.hcmus.edu.vn/index.php/cong-tac-kh-o-thi/l-ch-thi-h-c-ky/947-l-ch-thi-cu-i-ky-hk2-25-26-chinh-quy-t-i-lt-va-nvc)
+ - [Lịch thi cuối kỳ HK2/25-26 Chính quy tại LT và NVC (Cập nhật 02/06)](https://ktdbcl.hcmus.edu.vn/index.php/cong-tac-kh-o-thi/l-ch-thi-h-c-ky/947-l-ch-thi-cu-i-ky-hk2-25-26-chinh-quy-t-i-lt-va-nvc)
  - [Lịch thi cuối kỳ HK2/25-26 hệ ĐTTX](https://ktdbcl.hcmus.edu.vn/index.php/cong-tac-kh-o-thi/l-ch-thi-h-c-ky/942-l-ch-thi-cu-i-ky-hk2-25-26-h-dttx)
  - [Lịch thi giữa kỳ HK2/25-26 các lớp Chính quy tại NVC và LT](https://ktdbcl.hcmus.edu.vn/index.php/cong-tac-kh-o-thi/l-ch-thi-h-c-ky/941-l-ch-thi-gi-a-ky-hk2-25-26-cac-l-p-chinh-quy-d-i-tra-t-i-nvc-va-lt)
  - [Lịch thi cuối kỳ (sớm) HK2/25-26 các môn thi sớm tại LT (CẬP NHẬT 09/04)](https://ktdbcl.hcmus.edu.vn/index.php/cong-tac-kh-o-thi/l-ch-thi-h-c-ky/940-l-ch-thi-cu-i-ky-s-m-hk2-25-26-cac-mon-thi-s-m-t-i-lt)
