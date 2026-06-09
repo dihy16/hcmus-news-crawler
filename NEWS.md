@@ -1,7 +1,17 @@
 # All news
-_Last update: **2026-06-09 06:57:07.108203+07:00**_
+_Last update: **2026-06-09 09:44:13.265483+07:00**_
 ## APCS
 ## FIT
+ - 8-6-2026: [Danh sách sinh viên tham gia sinh hoạt công dân cuối khóa ngày 6/6](https://www.fit.hcmus.edu.vn/vn/Default.aspx?tabid=292&newsid=17432)
+ - 3-6-2026: [Thông báo v/v nộp đề cương luận án và báo cáo tổng quan của NCS khóa năm 2025](https://www.fit.hcmus.edu.vn/vn/Default.aspx?tabid=292&newsid=17427)
+ - 1-6-2026: [Danh sách tham quan KMS Technology ngày 10/6](https://www.fit.hcmus.edu.vn/vn/Default.aspx?tabid=292&newsid=17426)
+ - 1-6-2026: [Mời tham dự buổi Seminar trước bảo vệ luận án tiến sĩ của NCS Trần Thống](https://www.fit.hcmus.edu.vn/vn/Default.aspx?tabid=292&newsid=17422)
+ - 31-5-2026: [Danh sách sinh viên tham dự hội thảo Hội thảo Interview Mindset: Làm chủ buổi phỏng vấn công nghệ.](https://www.fit.hcmus.edu.vn/vn/Default.aspx?tabid=292&newsid=17421)
+ - 29-5-2026: [Thông báo về việc tổ chức Lễ tốt nghiệp Thạc sĩ, Tiến sĩ năm 2026](https://www.fit.hcmus.edu.vn/vn/Default.aspx?tabid=292&newsid=17430)
+ - 29-5-2026: [Đăng ký tham dự hội thảo: Interview Mindset – Làm chủ buổi phỏng vấn công nghệ](https://www.fit.hcmus.edu.vn/vn/Default.aspx?tabid=292&newsid=17420)
+ - 29-5-2026: [Danh sách sinh viên tham gia sinh hoạt công dân cuối khóa ngày 23/5](https://www.fit.hcmus.edu.vn/vn/Default.aspx?tabid=292&newsid=17419)
+ - 28-5-2026: [Đăng ký tham quan công ty KMS Technology ngày 10/6](https://www.fit.hcmus.edu.vn/vn/Default.aspx?tabid=292&newsid=17418)
+ - 26-5-2026: [[CQ] Kế hoạch giảng dạy học kỳ 3, năm học 2025-2026 (học kỳ hè)](https://www.fit.hcmus.edu.vn/vn/Default.aspx?tabid=292&newsid=17414)
 
 ## Thông tin dành cho sinh viên
 - 05/06/2026: [Thông báo kết quả chính thức học bổng khuyến khích học tập HK1/2025-2026 (Chương trình Chuẩn)](https://hcmus.edu.vn/thong-bao-ket-qua-chinh-thuc-hoc-bong-khuyen-khich-hoc-tap-hk1-2025-2026-chuong-trinh-chuan/)
