@@ -1,5 +1,5 @@
 # All news
-_Last update: **2026-06-16 19:03:35.417504+07:00**_
+_Last update: **2026-06-17 03:37:56.735494+07:00**_
 ## APCS
 ### Kế hoạch học tập
  - 16/06/2026: [[CTĐA] Các mốc thời gian KLTN – TTDATN – TTTN năm học 2026-2027](https://www.ctda.hcmus.edu.vn/vi/2026/06/ctda-cac-moc-thoi-gian-kltn-ttdatn-tttn-nam-hoc-2026-2027/)
@@ -76,12 +76,12 @@ _Last update: **2026-06-16 19:03:35.417504+07:00**_
 ## fetel
 
 ### Thông báo tuyển dụng - Thực tập
+ - 16-06: [Thông tin tuyển dụng Công ty Faraday Technology Vietnam](https://fetel.hcmus.edu.vn/thong-tin-tuyen-dung-cong-ty-faraday-technology-vietnam/)
  - 08-06: [Thông báo tuyển dụng công ty Ampere Computing Việt Nam](https://fetel.hcmus.edu.vn/thong-bao-tuyen-dung-cong-ty-ampere-computing-viet-nam/)
  - 02-06: [Chương trình “A Day @ Renesas for Future Female Engineers” dành cho các bạn sinh viên thuộc khối ngành kỹ thuật của Renesas Design Việt Nam](https://fetel.hcmus.edu.vn/chuong-trinh-a-day-renesas-for-future-female-engineers-danh-cho-cac-ban-sinh-vien-thuoc-khoi-nganh-ky-thuat-cua-renesas-viet-nam/)
  - 19-05: [Chương trình Sinh viên công nghệ tập sự 2026 của FPT Telecom “Master Deep Tech, Lead The Next”](https://fetel.hcmus.edu.vn/chuong-trinh-sinh-vien-cong-nghe-tap-su-2026-cua-fpt-telecom-master-deep-tech-lead-the-next/)
  - 08-05: [BOSCH INTERNSHIP PROGRAM 2026 ĐỢT 3](https://fetel.hcmus.edu.vn/bosch-internship-program-2026-dot-3/)
  - 05-05: [Tuyển chọn sinh viên tham gia chương trình “IC Design Training Program” – LAT Semiconductor](https://fetel.hcmus.edu.vn/tuyen-chon-sinh-vien-tham-gia-chuong-trinh-ic-design-training-program-lat-semiconductor/)
- - 21-04: [Thông tin tuyển dụng thực tập sinh tại công ty Ampere Computing](https://fetel.hcmus.edu.vn/thong-tin-tuyen-dung-thuc-tap-sinh-tai-cong-ty-ampere-computing/)
 
 ### Thông báo học bổng
  - 12-06: [Chương trình học bổng Cựu sinh viên Điện tử – Viễn thông cho sinh viên  có hoàn cảnh khó khăn và thành tích học tập tốt](https://fetel.hcmus.edu.vn/chuong-trinh-hoc-bong-cuu-sinh-vien-dien-tu-vien-thong-cho-sinh-vien-co-hoan-canh-kho-khan-va-thanh-tich-hoc-tap-tot/)
