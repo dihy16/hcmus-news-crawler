@@ -1,5 +1,5 @@
 # All news
-_Last update: **2026-07-01 10:42:46.477833+07:00**_
+_Last update: **2026-07-01 15:03:12.177873+07:00**_
 ## APCS
 ### Kế hoạch học tập
  - 16/06/2026: [[CTĐA] Các mốc thời gian KLTN – TTDATN – TTTN năm học 2026-2027](https://www.ctda.hcmus.edu.vn/vi/2026/06/ctda-cac-moc-thoi-gian-kltn-ttdatn-tttn-nam-hoc-2026-2027/)
@@ -50,6 +50,7 @@ _Last update: **2026-07-01 10:42:46.477833+07:00**_
  - 06/09/2021: [CTĐA – Hỗ trợ về nghiên cứu khoa học](https://www.ctda.hcmus.edu.vn/vi/2021/09/ctda-ho-tro-ve-nghien-cuu-khoa-hoc/)
 
 ## FIT
+ - 1-7-2026: [[CQ] Thông báo đăng ký học phần Khóa luận, Thực tập và Thực tập dự án tốt nghiệp, đợt bảo vệ tháng 03-04/2027](https://www.fit.hcmus.edu.vn/vn/Default.aspx?tabid=292&newsid=17458)
  - 30-6-2026: [Đăng kí tham gia Seminar Bộ môn Công nghệ Tri thức lần 1 năm 2026](https://www.fit.hcmus.edu.vn/vn/Default.aspx?tabid=292&newsid=17457)
  - 29-6-2026: [Tổng kết Seminar on Legal AI Beyond the Demo: Building systems that work in practice](https://www.fit.hcmus.edu.vn/vn/Default.aspx?tabid=292&newsid=17454)
  - 25-6-2026: [Mời tham dự buổi bảo vệ LATS cấp ĐVCM của NCS Nguyễn Ngọc Trung (8g00, 29/6, F205b)](https://www.fit.hcmus.edu.vn/vn/Default.aspx?tabid=292&newsid=17449)
@@ -59,9 +60,10 @@ _Last update: **2026-07-01 10:42:46.477833+07:00**_
  - 14-6-2026: [Đăng ký tham gia Seminar on Legal AI Beyond the Demo: Building systems that work in practice](https://www.fit.hcmus.edu.vn/vn/Default.aspx?tabid=292&newsid=17436)
  - 9-6-2026: [Các mốc thời gian đăng ký và thực hiện Khóa luận tốt nghiệp/ Thực tập tốt nghiệp/ Thực tập dự án tốt nghiệp Khóa 2023](https://www.fit.hcmus.edu.vn/vn/Default.aspx?tabid=292&newsid=17433)
  - 8-6-2026: [Danh sách sinh viên tham gia sinh hoạt công dân cuối khóa ngày 6/6](https://www.fit.hcmus.edu.vn/vn/Default.aspx?tabid=292&newsid=17432)
- - 3-6-2026: [Thông báo v/v nộp đề cương luận án và báo cáo tổng quan của NCS khóa năm 2025](https://www.fit.hcmus.edu.vn/vn/Default.aspx?tabid=292&newsid=17427)
 
 ## Thông tin dành cho sinh viên
+- 01/07/2026: [THÔNG BÁO GIẢI THƯỞNG LÊ VĂN THỚI NĂM 2026](https://hcmus.edu.vn/thong-bao-giai-thuong-le-van-thoi-nam-2026/)
+- 01/07/2026: [Thông báo kết quả chính thức HBKK HK1/2025-2026 Khoa Công nghệ Thông tin (CTĐA) ](https://hcmus.edu.vn/thong-bao-ket-qua-chinh-thuc-hbkk-hk1-2025-2026-khoa-cong-nghe-thong-tin-ctda/)
 - 26/06/2026: [Kế hoạch giảng dạy, học tập năm học 2026-2027 – Chương trình đại trà](https://hcmus.edu.vn/ke-hoach-giang-day-hoc-tap-nam-hoc-2026-2027-chuong-trinh-dai-tra/)
 - 26/06/2026: [Kế hoạch giảng dạy, học tập năm học 2026-2027 – Chương trình đề án](https://hcmus.edu.vn/ke-hoach-giang-day-hoc-tap-nam-hoc-2026-2027-chuong-trinh-de-an/)
 - 22/06/2026: [THÔNG BÁO Triển khai Giải thưởng Khoa học và Công nghệ của Bộ Giáo dục và Đào tạo dành cho sinh viên năm 2026](https://hcmus.edu.vn/thong-bao-trien-khai-giai-thuong-khoa-hoc-va-cong-nghe-cua-bo-giao-duc-va-dao-tao-danh-cho-sinh-vien-nam-2026/)
@@ -70,8 +72,6 @@ _Last update: **2026-07-01 10:42:46.477833+07:00**_
 - 17/06/2026: [Thông báo tuyển sinh viên tham gia chương trình AUN Summer Program 2026 tại Đại học Quốc gia Thành phố Hồ Chí Minh](https://hcmus.edu.vn/thong-bao-tuyen-sinh-vien-tham-gia-chuong-trinh-aun-summer-program-2026-tai-dai-hoc-quoc-gia-thanh-pho-ho-chi-minh/)
 - 17/06/2026: [Thông báo nộp học phí HK3/2025-2026 – Chương trình Tiên tiến, CLC, TCTA và Việt-Pháp](https://hcmus.edu.vn/67968-2/)
 - 17/06/2026: [Thông báo Kết quả dự kiến Điểm rèn luyện HK2/2025-2026 đối với sinh viên Chương trình Đề án](https://hcmus.edu.vn/thong-bao-ket-qua-du-kien-diem-ren-luyen-hk1-2025-2026-doi-voi-sinh-vien-chuong-trinh-de-an/)
-- 16/06/2026: [KÊU GỌI ĐỀ XUẤT Ý TƯỞNG PHÁT TRIỂN CÔNG NGHỆ CHIẾN LƯỢC TỪ BỘ KHOA HỌC VÀ CÔNG NGHỆ](https://hcmus.edu.vn/keu-goi-de-xuat-y-tuong-phat-trien-cong-nghe-chien-luoc-tu-bo-khoa-hoc-va-cong-nghe/)
-- 16/06/2026: [[THÔNG BÁO] Đăng ký tham dự Masterclass – Assoc. Prof. Theodor Cojoianu – Singapore Management University (SMU)](https://hcmus.edu.vn/thong-bao-dang-ky-tham-du-masterclass-assoc-prof-theodor-cojoianu-singapore-management-university-smu/)
 
 ## fetel
 
