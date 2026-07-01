@@ -1,5 +1,5 @@
 # All news
-_Last update: **2026-07-01 15:03:12.177873+07:00**_
+_Last update: **2026-07-02 00:06:12.845207+07:00**_
 ## APCS
 ### Kế hoạch học tập
  - 16/06/2026: [[CTĐA] Các mốc thời gian KLTN – TTDATN – TTTN năm học 2026-2027](https://www.ctda.hcmus.edu.vn/vi/2026/06/ctda-cac-moc-thoi-gian-kltn-ttdatn-tttn-nam-hoc-2026-2027/)
@@ -62,6 +62,7 @@ _Last update: **2026-07-01 15:03:12.177873+07:00**_
  - 8-6-2026: [Danh sách sinh viên tham gia sinh hoạt công dân cuối khóa ngày 6/6](https://www.fit.hcmus.edu.vn/vn/Default.aspx?tabid=292&newsid=17432)
 
 ## Thông tin dành cho sinh viên
+- 01/07/2026: [Thông báo đăng ký thay đổi cơ sở khám chữa bệnh bảo hiểm y tế đợt Quý 3/2026](https://hcmus.edu.vn/thong-bao-dang-ky-thay-doi-co-so-kham-chua-benh-bao-hiem-y-te-dot-quy-3-2026/)
 - 01/07/2026: [THÔNG BÁO GIẢI THƯỞNG LÊ VĂN THỚI NĂM 2026](https://hcmus.edu.vn/thong-bao-giai-thuong-le-van-thoi-nam-2026/)
 - 01/07/2026: [Thông báo kết quả chính thức HBKK HK1/2025-2026 Khoa Công nghệ Thông tin (CTĐA) ](https://hcmus.edu.vn/thong-bao-ket-qua-chinh-thuc-hbkk-hk1-2025-2026-khoa-cong-nghe-thong-tin-ctda/)
 - 26/06/2026: [Kế hoạch giảng dạy, học tập năm học 2026-2027 – Chương trình đại trà](https://hcmus.edu.vn/ke-hoach-giang-day-hoc-tap-nam-hoc-2026-2027-chuong-trinh-dai-tra/)
@@ -71,7 +72,6 @@ _Last update: **2026-07-01 15:03:12.177873+07:00**_
 - 17/06/2026: [Thông báo tuyển tình nguyện viên tham gia chương trình AUN Summer Program 2026 tại Đại học Quốc gia Thành phố Hồ Chí Minh](https://hcmus.edu.vn/thong-bao-tuyen-tinh-nguyen-vien-tham-gia-chuong-trinh-aun-summer-program-2026-tai-dai-hoc-quoc-gia-thanh-pho-ho-chi-minh/)
 - 17/06/2026: [Thông báo tuyển sinh viên tham gia chương trình AUN Summer Program 2026 tại Đại học Quốc gia Thành phố Hồ Chí Minh](https://hcmus.edu.vn/thong-bao-tuyen-sinh-vien-tham-gia-chuong-trinh-aun-summer-program-2026-tai-dai-hoc-quoc-gia-thanh-pho-ho-chi-minh/)
 - 17/06/2026: [Thông báo nộp học phí HK3/2025-2026 – Chương trình Tiên tiến, CLC, TCTA và Việt-Pháp](https://hcmus.edu.vn/67968-2/)
-- 17/06/2026: [Thông báo Kết quả dự kiến Điểm rèn luyện HK2/2025-2026 đối với sinh viên Chương trình Đề án](https://hcmus.edu.vn/thong-bao-ket-qua-du-kien-diem-ren-luyen-hk1-2025-2026-doi-voi-sinh-vien-chuong-trinh-de-an/)
 
 ## fetel
 
